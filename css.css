@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=RocknRoll+One&display=swap');
+
+table {
+  font-family: 'RocknRoll One', sans-serif;
+  font-size: 10px;
+}
+
+th {
+  width: 20px;
+  text-align: left;
+  font-weight: normal;
+}
+
+.item {
+  background-color: rgba(230, 230, 230, 0.4);
+  border-radius: 35%;
+}
+
+.active {
+  background-color: rgba(39, 174, 96, 0.2);
+}
+
+td {
+  width: 16px;
+}
+
+.month {
+  text-align: right;
+}
